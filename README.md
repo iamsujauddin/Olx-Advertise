@@ -1,2 +1,2 @@
-# Olx-Advertsie
-Olx-Advertsie application using java microservice
+# Olx-Advertise
+Olx-Advertise application using java microservice
